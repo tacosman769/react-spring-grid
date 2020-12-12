@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gridtest/static/css/main.de83bdc9.chunk.css",
+    "main.js": "/gridtest/static/js/main.ae5e141f.chunk.js",
+    "main.js.map": "/gridtest/static/js/main.ae5e141f.chunk.js.map",
+    "runtime-main.js": "/gridtest/static/js/runtime-main.672c17d5.js",
+    "runtime-main.js.map": "/gridtest/static/js/runtime-main.672c17d5.js.map",
+    "static/js/2.941c2749.chunk.js": "/gridtest/static/js/2.941c2749.chunk.js",
+    "static/js/2.941c2749.chunk.js.map": "/gridtest/static/js/2.941c2749.chunk.js.map",
+    "static/js/3.5360225b.chunk.js": "/gridtest/static/js/3.5360225b.chunk.js",
+    "static/js/3.5360225b.chunk.js.map": "/gridtest/static/js/3.5360225b.chunk.js.map",
+    "index.html": "/gridtest/index.html",
+    "static/css/main.de83bdc9.chunk.css.map": "/gridtest/static/css/main.de83bdc9.chunk.css.map",
+    "static/js/2.941c2749.chunk.js.LICENSE.txt": "/gridtest/static/js/2.941c2749.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.672c17d5.js",
+    "static/js/2.941c2749.chunk.js",
+    "static/css/main.de83bdc9.chunk.css",
+    "static/js/main.ae5e141f.chunk.js"
+  ]
+}
